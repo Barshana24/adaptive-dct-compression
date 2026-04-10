@@ -1,4 +1,4 @@
-**AI-Based Adaptive Image Compression using DCT + Deep Learning**
+**DynaQ: Content-Aware Image Compression System**
 
 **Overview**
 
